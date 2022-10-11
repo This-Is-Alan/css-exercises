@@ -1,0 +1,15 @@
+.btn_blck,
+.btn_yllw {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.btn_blck {
+    background-color: black;
+    color: white;
+}
+
+.btn_yllw{
+    background-color: yellow;
+}
+
